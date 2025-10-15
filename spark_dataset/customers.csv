@@ -1,0 +1,4 @@
+id,firstName,lastName,email,dateOfBirth,customerId,totalSpent,registrationDate,loyaltyTier
+P001,Alice,Smith,alice@mail.com,1990-01-01,C001,15000.00,2020-01-01,BASIC
+P002,Bob,Johnson,bob@mail.com,1985-05-05,C002,5000.00,2021-05-05,BASIC
+P003,Charlie,Brown,charlie@mail.com,2000-10-10,C003,25000.00,2022-10-10,BASIC

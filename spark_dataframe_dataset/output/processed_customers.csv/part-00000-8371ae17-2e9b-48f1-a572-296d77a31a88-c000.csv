@@ -1,0 +1,4 @@
+customer_id,firstName,lastName,email,totalSpent,loyaltyTier,is_VIP,address_id,street,city,state,zipCode,country,address_active,address_updatedAt
+P001,Alice,Smith,alice@mail.com,15000.000000000000000000,GOLD,false,A001,101 Oak St,Seattle,WA,98101,USA,true,2025-10-14T10:00:00.000
+P002,Bob,Johnson,bob@mail.com,5000.000000000000000000,SILVER,false,A002,202 Pine Ave,Tacoma,WA,98402,USA,true,2025-10-14T11:00:00.000
+P003,Charlie,Brown,charlie@mail.com,25000.000000000000000000,PLATINUM,true,A003,303 Birch Ct,Bellevue,WA,98004,USA,true,2025-10-14T12:00:00.000

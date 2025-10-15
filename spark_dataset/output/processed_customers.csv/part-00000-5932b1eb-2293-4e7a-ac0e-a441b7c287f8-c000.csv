@@ -1,0 +1,4 @@
+fullName,totalSpent,loyaltyTier,is_VIP
+Alice Smith,15000.000000000000000000,GOLD,true
+Bob Johnson,5000.000000000000000000,SILVER,false
+Charlie Brown,25000.000000000000000000,PLATINUM,true

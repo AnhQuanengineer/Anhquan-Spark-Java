@@ -1,0 +1,4 @@
+id,active,firstName,lastName,email,dateOfBirth,street,city,zipCode,customerId,totalSpent,registrationDate,loyaltyTier
+P001,true,Alice,Smith,alice@mail.com,1990-01-01,101 Oak St,Seattle,98101,C001,15000.00,2020-01-01,BASIC
+P002,true,Bob,Johnson,bob@mail.com,1985-05-05,202 Pine Ave,Tacoma,98402,C002,5000.00,2021-05-05,BASIC
+P003,false,Charlie,Brown,charlie@mail.com,2000-10-10,303 Birch Ct,Bellevue,98004,C003,25000.00,2022-10-10,BASIC
